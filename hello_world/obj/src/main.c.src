@@ -23,7 +23,7 @@ BB0_1:
 	section	.rodata,"a",@progbits
 	private	L_.str
 L_.str:
-	db	"Heasdfasdfallo, W0rld.", 0
+	db	"Hello, World.", 0
 
 	ident	"clang version 14.0.0 (https://github.com/jacobly0/llvm-project a139def90d26173f771eb1eca797633d1fbb2797)"
 	extern	__Unwind_SjLj_Register
